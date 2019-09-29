@@ -1,0 +1,7 @@
+apiVersion: spanner.tjun.org/v1beta1
+kind: SpannerAutoscaler
+metadata:
+  name: spannerautoscaler-sample
+spec:
+  # Add fields here
+  foo: bar
