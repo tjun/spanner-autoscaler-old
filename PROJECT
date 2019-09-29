@@ -1,7 +1,3 @@
 version: "2"
 domain: tjun.org
 repo: github.com/tjun/spanner-autoscaler
-resources:
-- group: spanner
-  version: v1
-  kind: SpannerAutoscaler
